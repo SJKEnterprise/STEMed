@@ -1,5 +1,5 @@
 # StemEd.io
-Stem ED is a Web 3.0 platform for STEMed.io (coming soon) STEM curriculum for educators to use, create and teach inperson and online classes.  The STEM content will be in partnership with Yeti Learning LLC which runs and manages https://YetiAcademy.com and https://TypingAgent.com.  
+Stem ED is a Web 3.0 platform for STEMed.io (coming soon) STEM curriculum for educators to use, create and teach inperson and online classes.  
 
 # Genisis NFT - STEMed 
 - 1500 NFT's for Early Adopters to gain access to web 2.0 and help develop the direction of web 3.0 STEM education.  
@@ -13,9 +13,10 @@ Stem ED is a Web 3.0 platform for STEMed.io (coming soon) STEM curriculum for ed
 
 Inital road map for holders of Genisis NFT Tokens include the following phases. 
 - Phase 1: 
-  1. Develop Web 3.0 games and activities that engage students in learning STEM content
-  2. Develop Land in Decentraland 2 x 2 Estate that allows colaborative environment to display videos, conferneces and simulate in class activities online. 
-  3. Develop Rostering of Google Class to online wallets for access to Web 3.0 spaces. 
+  1. Develop training that will onboard users to Web 3.0 and let them experience a familar exerience to onboarding with Web 2.0 products. 
+  2. Develop Web 3.0 games and activities that engage students in learning STEM content
+  3. Develop Land in Decentraland 2 x 2 Estate that allows colaborative environment to display videos, conferneces and simulate in class activities online. 
+  4. Develop Rostering of Google Class to online wallets for access to Web 3.0 spaces. 
 
 Phase II: 
 1. Rewards with STEMed coin that allows those who stake the NFT to earn rewards for locking value into the platform. 
@@ -25,6 +26,7 @@ Phase II:
 5. Early access to the Teach to Learn platform developed in Web 2.0 and 3.0
 6. Track Student progress with NFT's when curriculum is completed
 7. Track and get credit for Profesional Development time within the platform with NFT's when completing acredited trainings 
+8. Develop a DAO with governance and financal incentives to invest funds, time and to be involved with the projects future. 
 
 Phase III full web 3.0 integration: 
 1. Rostering student wallets with One Roster Open Standards for Schools and Districts
