@@ -13,14 +13,9 @@ Stem ED is a Web 3.0 platform for STEMed.io (coming soon) STEM curriculum for ed
 
 Inital road map for holders of Genisis NFT Tokens include the following phases. 
 - Phase 1: 
-  1. Two Year access to the following Web 2.0 programs. 
-  2. [YetiAcademy.com](https://yetiacademy.com)
-    - 1 Stand Alone School License, unlimited co-teachers
-    - 30 Student Licenses with access to all eight (8) STEM curriculum in [yetiacademy.com](https://yetiacademy.com/modules-stem/)
-    - 1 [Profesional Development](https://yetiacademy.com/professional-development) license (Able to create your own content) 
-  3. [TypingAgent.com](https://typingagent.com/learn-more/homeschools) (Home Edition With 10 student lincenses) 
-  4. Access to our STEMed Discord Group that has a voice in the direction of the project moving forward. 
-  5. Help shape the building our our space in Decentraland and SandBox as we grow. 
+  1. Develop Web 3.0 games and activities that engage students in learning STEM content
+  2. Develop Land in Decentraland 2 x 2 Estate that allows colaborative environment to display videos, conferneces and simulate in class activities online. 
+  3. Develop Rostering of Google Class to online wallets for access to Web 3.0 spaces. 
 
 Phase II: 
 1. Rewards with STEMed coin that allows those who stake the NFT to earn rewards for locking value into the platform. 
