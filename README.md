@@ -1,38 +1,36 @@
 # StemEd.io
-Stem ED is a Web 3.0 platform for STEMed.io (coming soon) STEM curriculum for educators to use, create and teach inperson and online classes.  
+Stem ED is a Web 3.0 platform for STEMed.io (coming soon) STEM is a rostering and NFT Creatioin platform for educators, Schools and Districts to use in creating and tracking the progress of students through curriculum and the provide an alternative space to Zoom that will be accessable to users for teaching class and tracking student progress.  
+The function will include two (2) distinct features.
+1. Rostering of users with Classlink using the One Roster standard.
+2. Provide a learning environment that simulates the in person classroom in the Metavers using Sandbox and Decentraland Land plots. 
 
 # Genisis NFT - STEMed 
-- 1500 NFT's for Early Adopters to gain access to web 2.0 and help develop the direction of web 3.0 STEM education.  
-- The target audencne for this NFT will be founders, investors and Educators that want to use, shape, and influence the STEM curriculum from Web 2.0 to Web 3.0. 
-- The Traits the NFT's will include: 
-   1. Science
-   2. Technology
-   3. Engineering
-   4. Mathmatics
-   5. Addtionals Traits will be voted on prior to minting the final NFT's as well as their rarity and function. 
+The puprpose of the NFT will be to allow early access for holders to roster students into a Polygon walet with their own NFT's that will allow access to the classes and track students progress through a variety of curriculum using the STEMed API to connect and track progress through their class curriculum.   
+- The NFT will allow teachers to track their profesional development skills and allow the district to Mint and issue NFT's that will verify the hours the teachers have spent on profesional development courses. 
+- The target audencne for this NFT will be founders, investors and Educators that want to use, shape, and influence how STEM curriculum is tracked from Web 2.0 to Web 3.0 interfaces using API integration to existing programs. 
+ 
 
 Inital road map for holders of Genisis NFT Tokens include the following phases. 
 - Phase 1: 
-  1. Develop training that will onboard users to Web 3.0 and let them experience a familar exerience to onboarding with Web 2.0 products. 
-  2. Develop Web 3.0 games and activities that engage students in learning STEM content
-  3. Develop Land in Decentraland 2 x 2 Estate that allows colaborative environment to display videos, conferneces and simulate in class activities online. 
-  4. Develop Rostering of Google Class to online wallets for access to Web 3.0 spaces. 
+  1. Develop training that will onboard users to Web 3.0 and let them experience a familar exerience to onboarding witih Web 2.0 products. 
+  2. Develop Web 3.0 Rostering for Teachers, Students, Schools and Districts so they have control over wallet access and can issue NFT's for access to Students to join Classes and be rostered allowing teachers to manage the students learning experience.  
+  3. Technology used will be Google Class and then Classlink
+  4. Develop Land in Decentraland 2 x 2 Estate that allows colaborative environment to display videos, cunduct classes, conferneces simulating in class activities online. 
+  
 
 Phase II: 
 1. Rewards with STEMed coin that allows those who stake the NFT to earn rewards for locking value into the platform. 
-2. Able to deligate the licenses to a teacher of your choice to give access to STEM curriculum. 
-3. Early access to Web 3.0 version of STEM Ed content classes
-4. Early access to Web 3.0 Profesional Development content and creation of your own content 
-5. Early access to the Teach to Learn platform developed in Web 2.0 and 3.0
-6. Track Student progress with NFT's when curriculum is completed
-7. Track and get credit for Profesional Development time within the platform with NFT's when completing acredited trainings 
-8. Develop a DAO with governance and financal incentives to invest funds, time and to be involved with the projects future. 
+2. Early access to Web 3.0 version of STEM Ed classes
+3. Early access to Web 3.0 API's the connect 3rd party Content to Web 3.0 tracking and grade books
+5. Early access to the Teach to Learn platform developed in Web 3.0
+5. Track Student progress with NFT's when 3rd party curriculum is completed
+6. Track and get credit for Profesional Development time within the platform with NFT's when completing acredited trainings 
+7. Develop a DAO with governance and financal incentives to invest funds, time and to be involved with the projects future. 
 
 Phase III full web 3.0 integration: 
-1. Rostering student wallets with One Roster Open Standards for Schools and Districts
-2. Cross Chain support
-3. Learn to Earn function 
-4. Teach to Earn function
-5. Profesional Development courses acrediation
-6. Create, Colaborate, use and manage courseware for Students, Teachers and Profesional Development. 
-7. Create-to-Earn new curriculum to earn rewards when developing curriculum or adding to existing curriculum. 
+1. Cross Chain support starting wtih Moralis and Centralized Db to Polygon and Decentralized Data. 
+2. Learn to Earn function 
+3. Teach to Earn function
+4. Profesional Development courses acrediation
+5. Create, Colaborate, use and manage courseware for Students, Teachers and Profesional Development. 
+6. Create-to-Earn new curriculum to earn rewards when developing curriculum or adding to existing curriculum. 
