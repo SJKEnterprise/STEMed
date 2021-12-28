@@ -1,7 +1,7 @@
 # StemEd.io
 Stem ED is a Web 3.0 platform for STEMed.io (coming soon) STEM is a rostering and NFT Creatioin platform for educators, Schools and Districts to use in creating and tracking the progress of students through curriculum and the provide an alternative space to Zoom that will be accessable to users for teaching class and tracking student progress.  
 The function will include two (2) distinct features.
-1. Rostering of users with Classlink using the One Roster standard.
+1. Rostering of users with Google classroom and Classlink using the One Roster standard.
 2. Provide a learning environment that simulates the in person classroom in the Metavers using Sandbox and Decentraland Land plots. 
 
 # Genisis NFT - STEMed 
