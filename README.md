@@ -1,8 +1,11 @@
 # StemEd.io
 Stem ED is a Web 3.0 platform for STEMed.io (coming soon) STEM is a rostering and NFT Creatioin platform for educators, Schools and Districts to use in creating and tracking the progress of students through curriculum and the provide an alternative space to Zoom that will be accessable to users for teaching class and tracking student progress.  
 The function will include two (2) distinct features.
-1. Rostering of users with Google classroom and Classlink using the One Roster standard.
-2. Provide a learning environment that simulates the in person classroom in the Metavers using Sandbox and Decentraland Land plots. 
+1. Use web 3.0 wallet(s) to connect to YetiAcademy so NFT holders can access 1 school account 30 students, 1 PD (profesional Development) license and / or 10 TA Home accounts. 
+2. Connect Users to Web 3.0 wallets TBD on tech and platform so that students can have NFT's created and saved for them. 
+3. Rostering  users with Google classroom and Classlink using the One Roster standard into Web 3 wallets that allow them access to Web 3 content.
+4. Provide a learning environment that simulates the in person classroom in the Metavers using Sandbox and Decentraland Land plots. 
+5. Provide Content from Yeti Academy on Web 3.0 content functionality. 
 
 # Genisis NFT - STEMed 
 The puprpose of the Genisis NFT will be to allow early access for holders to roster students into a Web 3.0 walet with their own crated NFT's that will allow access to the classes and track students progress through a variety of curriculum using the STEMed API to connected class curriculum.   
