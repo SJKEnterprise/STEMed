@@ -9,7 +9,7 @@ The function will include many features that progress though many speculative ph
 6. Provide Content from Yeti Academy on Web 3.0 content functionality. 
 
 # Genisis NFT - STEMed 
-The puprpose of the Genisis NFT will be to allow early access for holders to roster students into a Web 3.0 walet with their own crated NFT's that will allow access to the classes and track students progress through a variety of curriculum using the STEMed API to connected class curriculum.   
+The puprpose of the Genisis NFT will be to allow early access for holders to roster students into a Web 3.0 wallet with their own crated NFT's that will allow access to the classes and track students progress through a variety of curriculum using the STEMed API to connected class curriculum.   
 - The NFT will allow the holder to schedule and use the Sandbox and Decentraland space for teaching classes for free for the first 2 years of development. 
 - The target audencne for this NFT will be those who want to use, shape, and influence how STEM curriculum is tracked from Web 2.0 to Web 3.0 interfaces using API integration to existing programs and platforms. 
  
