@@ -16,25 +16,25 @@ The puprpose of the Genisis NFT will be to allow early access for holders to ros
 
 Inital road map for holders of Genisis NFT Tokens include the following phases. 
 - Phase 1: 
-  1. Develop training that will onboard users to Web 3.0 and let them experience a familar exerience to onboarding witih Web 2.0 products. 
-  2. Develop Web 3.0 Rostering for Teachers, Students, Schools and Districts so they have control over wallet access and can issue NFT's for access to Students to join Classes and be rostered allowing teachers to manage the students learning experience.  
-  3. Technology used will be Google Class and then Classlink using One Roster open source standard. 
-  4. Develop Land in Decentraland 2 x 2 Estate that allows colaborative environment to conduct classes, display videos, and conferneces simulating in class activities online for teachers and students. 
+  1. Develop training that will train and onboard users to Web 3.0 and let them experience a similar exerience to onboarding witih Web 2.0 products. 
+  2. Develop Web 3.0 Rostering for Teachers, Students, Schools and Districts so they have control over wallet access for themselves and users and can issue NFT's so Students anc join Classes and be rostered allowing teachers to manage the students learning experience.  
+  3. Existing technology used will be Google Class and then Classlink using One Roster open source standard to create a Web 3 onboarding experince that can transfer to schools and districts. 
+  4. Develop Land in Decentraland  and /or Sandbox using 2 x 2 Estate(s) that allow Teachers to teach in a colaborative environment to conduct classes, display videos, and conferneces simulating in class activities online for teachers and students. 
   
 
 Phase II: 
-1. Develop a foundation of DAO memebers from the genisis NFT holders that want to vote on shaping the direction of the project. 
+1. Develop a DAO with governance and financal incentives to investestors and contributors that are involved with the projects development and those that build the features. 
 2. Early access to Web 3.0 version of STEM Ed class rooms and confernece center. 
 3. Early access to Web 3.0 API's that connect 3rd party Content to Web 3.0 tracking and grade books
 5. Early access to the Teach to Learn platform developed in Web 3.0 where teachers can teach online and build their own following. 
 5. Track Student progress with NFT's when 3rd party curriculum is connected with API's
 6. Track and get credit for Profesional Development time within the platform with NFT's when completing acredited trainings. 
-7. Develop a DAO with governance and financal incentives to investestors and contributors that are involved with the projects development and those that build the features. 
+
 
 Phase III full web 3.0 integration: 
-1. Cross Chain support starting wtih Moralis and Centralized Db to Polygon and Decentralized Data using smart contracts. 
-2. Learn to Earn function 
-3. Teach to Earn function
-4. Profesional Development courses acrediation
-5. Create, Colaborate, use and manage courseware for Students, Teachers and Profesional Development. 
-6. Create-to-Earn new curriculum to earn rewards when developing curriculum or adding to existing curriculum. 
+1. Cross Chain support starting wtih Moralis and Centralized Db to multiple chains and Decentralized Data using smart contracts. 
+2. Learn to Earn function launched on smart contracts
+3. Teach to Earn function launched on smart contracts
+4. Profesional Development courses acrediation through NFT's and Smart Contracts
+5. Create, Colaborate, use and manage courseware for Students, Teachers and Profesional Development through decentralized smart contracts.  
+6. Create-to-Earn new curriculum to earn rewards when developing curriculum or adding to existing curriculum thorught decentralized smart contracts.
