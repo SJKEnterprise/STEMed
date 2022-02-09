@@ -14,27 +14,24 @@ The purpose of the Genisis NFT will be to allow early access for holders to rost
 - The target audience for this NFT will be those who want to use, shape, and influence how STEM curriculum is transitioned from Web 2.0 to Web 3.0 functionality using API integration to existing programs and platforms. 
 
  
+# The initial road map for holders of Genisis NFT Tokens includes the following phases. 
+- Phase I: 
+1. Develop training that will onboard users to Web 3.0 and let them experience a similar experience to onboarding with Web 2.0 products. 
+2. Allow Access to Yeti Academy Web 2.0 and or Typing Agent Home through NFT's sold to users for access to these platforms. 
+3. Develop Web 3.0 Rostering for Teachers, Students, Schools, and Districts so they have control over wallet access to the Yeti Academy platform
+4. Users can issue NFT's through the Web 2.0 platform so Students can join Classes and be rostered allowing teachers to manage the students learning experience using NFT's.
 
-The initial road map for holders of Genisis NFT Tokens includes the following phases. 
-- Phase 1: 
-  1. Develop training that will train and onboard users to Web 3.0 and let them experience a similar experience to onboarding with Web 2.0 products. 
-  2. Develop Web 3.0 Rostering for Teachers, Students, Schools, and Districts so they have control over wallet access for themselves and users and can issue NFT's so Students and join Classes and be rostered allowing teachers to manage the students learning experience.  
-  3. Existing technology used will be Google Class and then Classlink using One Roster open source standard to create a Web 3 onboarding experience that can transfer to schools and districts. 
-  4. Develop Land in Decentraland and /or Sandbox using 2 x 2 Estate(s) that allow Teachers to teach in a collaborative environment to conduct classes, display videos, and conferences simulating in-class activities online for teachers and students. 
-
-  
-
-Phase II: 
+- Phase II: 
 1. Develop a DAO with governance and financial incentives to investors and contributors that are involved with the project's development and those that build the features.
-2. Early access to Web 3.0 version of STEM Ed classrooms and conference center. 
-3. Early access to Web 3.0 API's that connect 3rd party Content to Web 3.0 tracking and grade books
-5. Early access to the Teach to Learn platform developed in Web 3.0 where teachers can teach online and build their own following. 
-5. Track Student progress with NFT's when 3rd party curriculum is connected with API's
-6. Track and get credit for Profesional Development time within the platform with NFT's when completing accredited training.
+2. Rostering technology used will be Google Class, Classlink using One Roster open source standard to create a Web 3 onboarding experience that can transfer to schools and districts. 
+3. Develop Land in Decentraland and /or Sandbox using 2 x 2 Estate(s) that allow Teachers to teach in a collaborative environment to conduct classes, display videos, and conferences simulating in-class activities online for teachers and students. 
+4. Early access to Web 3.0 version of STEM Ed classrooms and conference center. 
+5. Early access to Web 3.0 API's that connect 3rd party Content to Web 3.0 tracking and grade books
+6. Early access to the Teach to Learn platform developed in Web 3.0 where teachers can teach online and build their own following. 
+7. Track Student progress with NFT's when 3rd party curriculum is connected with API's
+8. Track and get credit for Profesional Development time within the platform with NFT's when completing accredited training.
  
-
-
-Phase III full web 3.0 integration: 
+- Phase III full web 3.0 integration: 
 1. Cross Chain support starting with Moralis and Centralized Db to multiple chains and Decentralized Data using smart contracts. 
 2. Learn to Earn function launched on smart contracts
 3. Teach to Earn function launched on smart contracts
